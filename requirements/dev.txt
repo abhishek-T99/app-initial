@@ -1,0 +1,14 @@
+-r base.txt
+pytest
+pytest-postgresql
+psycopg # required by pytest-postgresql
+coverage
+ipdb
+fastapi-debug-toolbar
+faker
+pytest-env
+freezegun
+httpx
+pytest-grpc
+itsdangerous
+ruff

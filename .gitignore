@@ -1,0 +1,34 @@
+__pycache__
+*.pyc
+*.log
+env
+venv
+test.db
+.coverage
+.env
+uploads/
+.idea/
+config.yml
+credentials.json
+tables.md
+temp.*
+.vscode
+# alembic/versions
+# certs/
+.ruff_cache
+_pg_data/*
+node_modules/
+package.json
+package-lock.json
+# Pants workspace files
+/.pants.*
+/dist/
+/.pids
+lambda-python-dependencies
+lambda-deployment-package.zip
+
+.direnv
+shell.nix
+.envrc
+pants
+htmlcov
